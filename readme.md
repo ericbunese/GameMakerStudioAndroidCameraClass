@@ -9,4 +9,6 @@ I Couldn't get Game Maker to compile onRequestPermissionsResult,
 so I've commented that out.
 
 Future updates:
-Add gallery browsing to pick images into Game Maker.
+-Add proper sprites and user interface to display functionality
+-Add gallery browsing to pick images into Game Maker.
+-Document JAVA code (However, Log gives understandable output.)
